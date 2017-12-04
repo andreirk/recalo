@@ -19,3 +19,5 @@ export const fbConfig = {
   storageBucket: `${appName}.appspot.com`,
   messagingSenderId: "333026057343"
 }
+
+export const DISPLAY_NAME = "RECALO"
